@@ -1,0 +1,4 @@
+<template>
+    Cinerama Cinema
+</template>
+
